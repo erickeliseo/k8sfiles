@@ -1,4 +1,5 @@
 #!/bin/bash
+rm -fR /mnt/quay
 cd ~/
 mkdir -p /mnt/quay/config
 mkdir -p /mnt/quay/storage
